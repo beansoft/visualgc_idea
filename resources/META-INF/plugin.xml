@@ -7,8 +7,13 @@
   <description><![CDATA[
   <h2>VisualGC IDEA</h2>
       This plugin displayed a Visual GC tool window in your IDEA.<br>
-      Usage: 1. From main interface bottom right;
-      2. From menu Tools > New VisualGC Window.
+      Usage: 1. From main interface bottom right;<br>
+      2. From menu Tools > New VisualGC Window.<br>
+<br>
+     在IDEA中显示 VisualGC 工具窗口或打开新窗口, 便于一边运行代码一边观察GC情况.<br><br>
+用法:<br>
+1) 点击停靠窗口右下角的 * VisualGC;<br>
+2) 打开新的独立运行窗口使用菜单 Tools > New VisualGC Window.<br>
       <h2>ISSUES</h2>
 <p>
 <a href='https://github.com/beansoftapp/visualgc_idea/issues'>Submit Suggestions or Bugs</a></p>
