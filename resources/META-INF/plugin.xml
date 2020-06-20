@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.github.beansoftapp.visualgc.plugin</id>
   <name>VisualGC</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="beansoft@126.com" url="https://github.com/beansoftapp/visualgc_idea">刘长炯</vendor>
 
   <description><![CDATA[
@@ -24,7 +24,8 @@
   <change-notes>
     <![CDATA[
       <ul>
-        <li><b>1.0.0</b> First release, add tool window and menu.</li>
+        <li><b>1.1</b> Fix a bug that after a process stoped, can't monitor new process.</li>
+        <li><b>1.0</b> First release, add tool window and menu.</li>
       </ul>
     ]]>
   </change-notes>
