@@ -1,22 +1,24 @@
 <idea-plugin>
   <id>com.github.beansoftapp.visualgc.plugin</id>
-  <name>VisualGC IDEA</name>
-  <version>1.0.0</version>
+  <name>VisualGC</name>
+  <version>1.0</version>
   <vendor email="beansoft@126.com" url="https://github.com/beansoftapp/visualgc_idea">刘长炯</vendor>
 
   <description><![CDATA[
-  <h2>VisualGC IDEA</h2>
-      This plugin displayed a Visual GC tool window in your IDEA.<br>
+  <h2>VisualGC for Hotspot JVM</h2>
+      This plugin displayed a Visual GC tool window in your IDE, only supports HotSpot JVM(JDK 1.5 to OpenJDK 14).<br>
       Usage: 1. From main interface bottom right;<br>
       2. From menu Tools > New VisualGC Window.<br>
 <br>
-     在IDEA中显示 VisualGC 工具窗口或打开新窗口, 便于一边运行代码一边观察GC情况.<br><br>
+     在IDEA中显示 VisualGC 工具窗口或打开新窗口, 便于一边运行代码一边观察GC情况. 进支持HotSpot JVM(JDK 1.5 到 OpenJDK 14).<br><br>
 用法:<br>
 1) 点击停靠窗口右下角的 * VisualGC;<br>
 2) 打开新的独立运行窗口使用菜单 Tools > New VisualGC Window.<br>
       <h2>ISSUES</h2>
 <p>
 <a href='https://github.com/beansoftapp/visualgc_idea/issues'>Submit Suggestions or Bugs</a></p>
+
+<a href='https://www.oracle.com/technetwork/java/visualgc-136680.html'>visualgc官方版介绍</a>
     ]]></description>
 
   <change-notes>
