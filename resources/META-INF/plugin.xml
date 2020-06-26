@@ -2,7 +2,7 @@
   <id>com.github.beansoftapp.visualgc.plugin</id>
   <name>VisualGC</name>
   <version>1.0</version>
-  <vendor email="beansoft@126.com" url="https://github.com/beansoftapp/visualgc_idea">刘长炯</vendor>
+  <vendor email="beansoft@126.com" url="https://github.com/beansoftapp/visualgc_idea">beansoft</vendor>
 
   <description><![CDATA[
   <h2>VisualGC for Hotspot JVM</h2>
